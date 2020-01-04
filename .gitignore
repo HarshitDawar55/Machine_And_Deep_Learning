@@ -5,3 +5,4 @@
 *.settings
 *.ipynb_checkpoints
 *Models_Saved
+*.bat
