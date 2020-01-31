@@ -32,14 +32,14 @@ It can be installed through 2 ways!!!
 
 # Instructions for Running the Code
 
-1. Using Anaconda!
+* Using Anaconda!
 
-  1. Download the jupyter notebook from my repository.
-  2. Open Jupyter Notebook from Anaconda.
-  3. Locate the downloaded file from the jupyter notebook interface and open it.
+  * Download the jupyter notebook from my repository.
+  * Open Jupyter Notebook from Anaconda.
+  * Locate the downloaded file from the jupyter notebook interface and open it.
 
 
-2. Using PIP!
+* Using PIP!
 
   - Download the jupyter notebook from my repository.
   - Run command "jupyter notebook".
