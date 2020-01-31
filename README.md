@@ -25,7 +25,7 @@ It can be installed through 2 ways!!!
 
 2. Using PIP(Package Managed for Python)!
 
-	-Install python in your system.
+- Install python in your system.
  - Install pip in your system.
  - run command "pip install jupyter".
 
