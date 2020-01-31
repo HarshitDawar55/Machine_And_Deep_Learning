@@ -21,26 +21,26 @@ It can be installed through 2 ways!!!
 
 1. Using Anaconda!
 
-- Visit https://www.anaconda.com/distribution/ to download "Anaconda" software for windows or mac available for both python(2 & 3). This software supports many other things like Spyder IDE, R studio etc. 
+ - Visit https://www.anaconda.com/distribution/ to download "Anaconda" software for windows or mac available for both python(2 & 3). This software supports many other things like Spyder IDE, R studio etc. 
 
 2. Using PIP(Package Managed for Python)!
 
-- Install python in your system.
-- Install pip in your system.
-- run command "pip install jupyter".
+ - Install python in your system.
+ - Install pip in your system.
+ - run command "pip install jupyter".
 
 
 # Instructions for Running the Code
 
 1. Using Anaconda!
 
-- Download the jupyter notebook from my repository.
-- Open Jupyter Notebook from Anaconda.
-- Locate the downloaded file from the jupyter notebook interface and open it.
+ - Download the jupyter notebook from my repository.
+ - Open Jupyter Notebook from Anaconda.
+ - Locate the downloaded file from the jupyter notebook interface and open it.
 
 
 2. Using PIP!
 
-- Download the jupyter notebook from my repository.
-- Run command "jupyter notebook".
-- Locate the downloaded file from the jupyter notebook interface and open it.
+ - Download the jupyter notebook from my repository.
+ - Run command "jupyter notebook".
+ - Locate the downloaded file from the jupyter notebook interface and open it.
