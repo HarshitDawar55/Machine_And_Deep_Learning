@@ -34,9 +34,9 @@ It can be installed through 2 ways!!!
 
 1. Using Anaconda!
 
-  - Download the jupyter notebook from my repository.
-  - Open Jupyter Notebook from Anaconda.
-  - Locate the downloaded file from the jupyter notebook interface and open it.
+  1. Download the jupyter notebook from my repository.
+  2. Open Jupyter Notebook from Anaconda.
+  3. Locate the downloaded file from the jupyter notebook interface and open it.
 
 
 2. Using PIP!
