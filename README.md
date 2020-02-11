@@ -47,4 +47,4 @@ It can be installed through 2 ways!!!
 
 # LICENSE
 
-To check the license visit [LICENSE](https://github.com/HarshitDawar55/Machine_And_Deep_Learning/blob/master/LICENSE.md)
+To check the license visit [LICENSE](https://github.com/HarshitDawar55/Machine_And_Deep_Learning/blob/master/LICENSE.md) 
