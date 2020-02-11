@@ -44,3 +44,7 @@ It can be installed through 2 ways!!!
   - Download the jupyter notebook from my repository.
   - Run command "jupyter notebook".
   - Locate the downloaded file from the jupyter notebook interface and open it.
+
+# LICENSE
+
+To check the license visit [LICENSE][https://github.com/HarshitDawar55/Machine_And_Deep_Learning/blob/master/LICENSE.md]
