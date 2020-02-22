@@ -1,4 +1,4 @@
-![MLDL](/Users/harshitdawar/Downloads/MLDL.png)
+![MLDL](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsocialprachar.com%2Fhow-to-build-a-career-in-ai-and-machine-learning%2Fai3%2F&psig=AOvVaw1YwdIvsyMS_X3-BtfxyRbj&ust=1582464476998000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMChxOOh5ecCFQAAAAAdAAAAABAT)
 
 # Machine_And_Deep_Learning
 
