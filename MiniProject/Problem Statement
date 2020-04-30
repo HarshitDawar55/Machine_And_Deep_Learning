@@ -1,7 +1,7 @@
 TITLE - NER using BERT
 
 We have to use BERT for NER on the following dataset:
-[link](https://www.kaggle.com/dataturks/resume-entities-for-ner)
+https://www.kaggle.com/dataturks/resume-entities-for-ner
 
 To classify following entities:
 Name
