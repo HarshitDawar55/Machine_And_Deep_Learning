@@ -1,0 +1,20 @@
+TITLE - NER using BERT
+
+We have to use BERT for NER on the following dataset:
+https://www.kaggle.com/dataturks/resume-entities-for-ner
+
+To classify following entities:
+Name
+College Name
+Degree
+Graduation Year
+Years of Experience
+Companies worked at
+Designation
+Skills
+Location
+Email Address
+We can also use kaggle kernels to perform this task.
+
+Here is the link for reference about the topic:
+https://www.depends-on-the-definition.com/named-entity-recognition-with-bert/
